@@ -1,0 +1,24 @@
+_repo: Suomen-rahvaan-olo-Pietarissa-b-Lukemisia-Suomen-rahvaalle-I_71077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Friman, Thomas
+    gutenberg_agent_id: '56065'
+    url: http://www.gutenberg.org/2009/agents/56065
+description: ''
+gutenberg_issued: '2023-06-30'
+identifiers:
+  gutenberg: '71077'
+language: fi
+pgterms:marc905: 20230624001107friman
+pgterms:marc906: '1849'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bA. F. Cedervaller, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suomen rahvaan olo Pietarissa : $b Lukemisia Suomen rahvaalle I'
+url: http://www.gutenberg.org/ebooks/71077
