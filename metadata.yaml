@@ -1,11 +1,16 @@
 _repo: Suomen-rahvaan-olo-Pietarissa-b-Lukemisia-Suomen-rahvaalle-I_71077
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Friman, Thomas
     gutenberg_agent_id: '56065'
     url: http://www.gutenberg.org/2009/agents/56065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71077#Suomen-rahvaan-olo-Pietarissa-b-Lukemisia-Suomen-rahvaalle-I
 gutenberg_issued: '2023-06-30'
 identifiers:
   gutenberg: '71077'
